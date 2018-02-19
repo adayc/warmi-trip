@@ -9,13 +9,11 @@ Adicional a esto ofrecemos un botón de emergencia en caso te encuentres en algu
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
 
-
-# PROYECTO: Red Social WARMI TRIP
-# BAJO EL LEMA: Disfruta…viaja…vive.
+### BAJO EL LEMA: Disfruta…viaja…vive.
 
 ![Imagenes](assets/img/logomujerchica.png) 
 
-# NOMBRE DE PARTICIPANTES
+### NOMBRE DE PARTICIPANTES
 
 *	Ada Tatiana Yahuanca Chupa : UX  Front End
 
