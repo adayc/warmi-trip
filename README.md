@@ -1,6 +1,6 @@
 # WARMI TRIP
 
-Warmi Trip, es una aplicación viajera, hecha solo para mujeres, solo regístrate y planifica tu viaje.
+Warmi trip es una red social orientada sólo para mujeres viajeras. En esta podrás postear fotos además de planificarlos con un presupuesto y sugerencias. Adicional a esto ofrecemos un botón de emergencia en caso te encuentres en alguna situación de peligro y necesites ayuda. 
 **Nuestro Lema: Disfruta…viaja…vive.**
 
 ![Warmi Trip](https://user-images.githubusercontent.com/32305619/36449186-089896b6-1658-11e8-99b8-66d325bc7a91.png)
